@@ -1,9 +1,5 @@
-### <center>Welcome to the Page of</center>
+### Welcome to the Page of
 # :blue_heart: **blue Maggie** :blue_heart:
 
-> :memo: **Note:** work in progress!
-
-<font color="red">This text should be red! Why doesn´t it do it???</font>
-
-![Minion yaaay!](minionYay.jpg)
-<p style="color: #0000ff, text-align:center;"></p>
+This is page in progress. I just started learning to program and doing my first little steps in git.
+I hope to be able to place a more useful description soon!
