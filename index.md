@@ -3,3 +3,4 @@
 
 This is page in progress. I just started learning to program and doing my first little steps in git.
 I hope to be able to place a more useful description soon!
+
