@@ -9,7 +9,8 @@ on:
       - feature2_short_description
   pull_request:
     types: [ opened ]
-
+permissions:
+  pull-requests: write
 jobs:
   build:
     runs-on: ubuntu-latest
