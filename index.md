@@ -1,6 +1,3 @@
-### Welcome to the Page of
-# :blue_heart: **blue Maggie** :blue_heart:
-
+# Welcome to the Page of **blue Maggie** 
 This is page in progress. I just started learning to program and doing my first little steps in git.
 I hope to be able to place a more useful description soon!
-
