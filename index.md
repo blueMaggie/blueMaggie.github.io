@@ -7,3 +7,8 @@ I hope to be able to place a more useful description soon!
 * ToDo App
 * Some other fancy App
 * Maybe even more Apps
+
+QOTSA:
+> So good to be an ant that crawls atop a spinning rock
+
+<img src="https://pixabay.com/de/photos/minion-darth-vader-puppe-2201004/"/>
